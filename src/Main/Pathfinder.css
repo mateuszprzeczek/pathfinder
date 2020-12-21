@@ -1,0 +1,11 @@
+.grid {
+    margin: 100px 0 0;
+    padding: 0;
+}
+
+button {
+    line-height: 2rem;
+    font-size: 1rem;
+    background-color: royalblue;
+    color: #fff;
+}
